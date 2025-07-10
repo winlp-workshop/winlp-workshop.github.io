@@ -1,0 +1,47 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Hello World",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "url": "/general/2018/08/22/hello-world/"
+      },
+    
+  
+  
+  
+  {
+    "title": "About this website",
+    "excerpt": "\n",
+    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "Widening Natural Language Processing",
+    "excerpt": "\n",
+    "content": "WiNLP 2025 Workshop\nWorkshop Description\nThe Widening NLP (WiNLP) workshop aims to foster an inclusive environment that highlights the contributions of researchers from underrepresented groups in NLP. Anyone who self-identifies as being from an underrepresented background—based on gender, ethnicity, nationality, sexual orientation, disability, or otherwise—is encouraged to submit. In 2025, WiNLP will continue placing emphasis on access, disability, and diversity across scientific backgrounds, disciplines, training, and underrepresented languages.\n",
+    "url": "/"
+  }
+  
+]
+
