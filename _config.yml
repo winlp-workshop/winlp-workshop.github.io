@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Alembic" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/cropped-WideningNLP-h-250x100.png" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -110,24 +110,26 @@ css_inline: false # Will insert all styles into a single <style> block in the <h
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+  32: '/assets/logos/cropped-winlp-v3-purple-512-32x32.png'
+  180: '/assets/logos/cropped-winlp-v3-purple-512-180x180.png'
+  192: '/assets/logos/cropped-winlp-v3-purple-512-192x192.png'
+  512: '/assets/logos/cropped-winlp-v3-purple-512.png'
 
 # 9. Site navigation
 navigation_header:
 - title: Home
   url: /
-- title: Elements
+- title: WiNLP 2025
+  url: /winlp-2025
+- title: About
+  url: /about/
+- title: Past Events
+  url: /past-events/
+- title: Elements-tmp
   url: /elements/
-- title: Blog
+- title: Blog-tmp
   url: /blog/
-- title: Categories
+- title: Categories-tmp
   url: /categories/
 - title: Search
   url: /search/
