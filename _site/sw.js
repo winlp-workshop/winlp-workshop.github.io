@@ -1,8 +1,8 @@
-const version = '20250717130912';
+const version = '20250717131900';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2016/08/29/example-post-three/","/history/external%20sources/2016/08/28/example-post-two/","/general/external%20sources/2016/08/27/example-post-one/","/events/winlp-2025/call-for-papers/","/events/winlp-2024/call-for-submission/","/categories/","/organization/committee/","/elements/","/organization/guidelines-for-zoom-moderation/","/blog/","/","/events/winlp-2024/","/manifest.json","/events/past-events/","/events/winlp-2025/program/","/assets/search.json","/search/","/organization/slack-community-standards/","/stories/spotlights/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/styles.css.map","/assets/logos/cropped-WideningNLP-h-250x100.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/external%20sources/2016/08/27/example-post-one/","/events/winlp-2025/call-for-papers/","/events/winlp-2024/call-for-submission/","/categories/","/organization/committee/","/elements/","/organization/guidelines-for-zoom-moderation/","/blog/","/","/events/winlp-2024/","/manifest.json","/events/past-events/","/events/winlp-2025/program/","/assets/search.json","/search/","/organization/slack-community-standards/","/stories/spotlights/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/cropped-WideningNLP-h-250x100.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
