@@ -1,8 +1,8 @@
-const version = '20250717070845';
+const version = '20250717115314';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2016/08/29/example-post-three/","/history/external%20sources/2016/08/28/example-post-two/","/general/external%20sources/2016/08/27/example-post-one/","/categories/","/elements/","/blog/","/","/manifest.json","/offline/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/winlp-2025/","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/styles.css.map","/assets/logos/cropped-WideningNLP-h-250x100.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/2016/08/29/example-post-three/","/history/external%20sources/2016/08/28/example-post-two/","/general/external%20sources/2016/08/27/example-post-one/","/events/winlp-2025/call-for-papers/","/categories/","/elements/","/blog/","/","/manifest.json","/events/winlp-2025/program/","/assets/search.json","/search/","/stories/spotlights/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/styles.css.map","/assets/logos/cropped-WideningNLP-h-250x100.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

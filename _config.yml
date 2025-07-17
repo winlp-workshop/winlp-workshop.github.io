@@ -119,24 +119,26 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: WiNLP 2025
-  url: /winlp-2025
-- title: About
-  url: /about/
+- title: Call for Papers
+  url: /events/winlp-2025/call-for-papers
+- title: Program
+  url: /events/winlp-2025/program
+- title: Committee
+  url: /organization/committee
+- title: Sponsors
+  url: /organization/sponsors
+- title: Stories
+  url: /stories/spotlights
 - title: Past Events
-  subfolderitems:
-    - title: WiNLP 2024
-      url: /winlp-2024/
-    - title: WiNLP 2023
-      url: /winlp-2023/
-- title: Elements-tmp
-  url: /elements/
-- title: Blog-tmp
-  url: /blog/
-- title: Categories-tmp
-  url: /categories/
-- title: Search
-  url: /search/
+  url: /past-events/
+# - title: Elements
+#   url: /elements/
+# - title: Blog
+#   url: /blog/
+# - title: Categories
+#   url: /categories/
+# - title: Search
+#   url: /search/
 
 navigation_footer:
 - title: Designed with the Alembic theme

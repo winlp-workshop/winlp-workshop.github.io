@@ -13,6 +13,9 @@
 <lastmod>2016-08-29T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/events/winlp-2025/call-for-papers/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/categories/</loc>
 </url>
 <url>
@@ -25,10 +28,13 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/events/winlp-2025/program/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/search/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/winlp-2025/</loc>
+<loc>http://localhost:4000/stories/spotlights/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/page2/</loc>

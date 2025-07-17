@@ -1,8 +1,7 @@
 ---
-title: WiNLP 2025 Workshop
+title: WiNLP 2025 Workshop - Call for Papers
 feature_text: |
-  ## WiNLP 2025 Workshop
-  Join us this November in Suzhou, China!
+  
 feature_image: /assets/images/background_homepage.jpg
 excerpt: ""
 ---
