@@ -93,7 +93,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "Widening Natural Language Processing" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/cropped-WideningNLP-h-250x100.png" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
@@ -124,7 +124,11 @@ navigation_header:
 - title: About
   url: /about/
 - title: Past Events
-  url: /past-events/
+  subfolderitems:
+    - title: WiNLP 2024
+      url: /winlp-2024/
+    - title: WiNLP 2023
+      url: /winlp-2023/
 - title: Elements-tmp
   url: /elements/
 - title: Blog-tmp
@@ -135,8 +139,8 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Designed with the Alembic theme
+  url: https://github.com/daviddarnes/alembic
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
