@@ -3,4 +3,33 @@ title: false
 styles: true
 ---
 
+// Text colours
+$headingColour: #4b0082;
+$bodyColour: #384743;
+$linkColour: #8a2be2;
+$hoverColour: #6a0dad;
+$focusColour: #da70d6;
+$captionColour: #c8a2c8;
+$white: #ffffff;
+
+
+// Typography
+$bodytype: (
+  font-family: '"Inter", sans-serif',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: '"Inter", sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+
 @import "alembic";
+
+
