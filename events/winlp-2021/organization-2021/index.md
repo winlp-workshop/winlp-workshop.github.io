@@ -1,0 +1,130 @@
+---
+title: "Organization for WiNLP 2021 at EMNLP"
+date: 2021-02-27
+---
+
+- The WiNLP Organization currently consists of the Workshop Organizers and an Advisory Board.
+
+### EMNLP 2021 WiNLP Workshop Organizers:
+
+- [Antonios Anastasopoulos](http://www.cs.gmu.edu/~antonis/), George Mason University.
+- [Khyathi Raghavi Chandu](http://www.cs.cmu.edu/~kchandu/), Carnegie Mellon University.
+- [Shaily Bhatt,](https://www.linkedin.com/in/shaily-bhatt/?originalSubdomain=in) Google Research India.
+- [Ryan Georgi](https://ryan.georgi.cc/), University of Washington.
+- [Tirthankar Ghosal](https://tirthankarslg.wixsite.com/ainlpmldl), Indian Institute of Technology Patna.
+- [Haley Lepp](mailto:hlepp@ets.org), Educational Testing Service.
+- [Fatemehsadat Mireshghallah,](https://cseweb.ucsd.edu//~fmireshg/) University of California, San Diego.
+- [Surangika Ranathunga](https://uom.lk/staff/Ranathunga.S.php), University of Moratuwa.
+- [Xanda Schofield](https://www.cs.hmc.edu/~xanda/#/), Harvey Mudd College.
+- [Erika Varis](https://www.linkedin.com/in/erikavarisdoggett/), Walt Disney Studios.
+
+### Advisory Board:
+
+- Amittai Axelrod, University of Maryland
+- Kalika Bali, Microsoft Research India
+- Hal Daumé III, Associate Professor, University of Maryland
+- Annie Lee,  University of Toronto
+- Meg Mitchell, Ethical AI LLC
+- Lay-Ki Soon,  School of Information Technology, Monash University Malaysia
+- Zeerak Talat, University of Sheffield
+- Karin Verspoor, Royal Melbourne Institute of Technology  University
+- Klaus Zechner, Educational Testing Service
+
+### Program Committee and Reviewers:
+
+- Gavin Abercrombie, Heriot Watt University
+- Supunmali Ahangama, University of Moratuwa
+- Libby Barak, Rutgers University
+- Maria Barrett, IT University of Copenhagen
+- Emily M. Bender, University of Washington
+- Samuel R. Bowman, New York University
+- Marie Candito, LLF (Univ. de Paris / CNRS)
+- Kai-Wei Chang, UCLA
+- Zhuo Cheng, University of North Carolina at Charlotte
+- Colin Cherry, Google
+- Kenneth Church, Baidu, USA
+- Ryan Cotterell, ETH Zürich
+- Dipanjan Das, Google Research
+- Hal Daumé III, University of Maryland
+- Piyumal Demotte, University of Moratuwa
+- Jacob Eisenstein, Google
+- Jason Eisner, Johns Hopkins University
+- George Foster, Google
+- Liye Fu, Cornell University
+- Hardy Hardy, The University of Sheffield
+- Mareike Hartmann, University of Copenhagen
+- Lars Hellan, NTNU
+- Julia Hockenmaier, University of Illinois Urbana-Champaign
+- Kristen Howell, LivePerson Inc.
+- Naoya Inoue, Stony Brook University / RIKEN
+- Hitoshi Ishara Toyohasi University of Technology
+- Cassandra L. Jacobs, University of Wisconsin, Madison
+- Sneha Jha, Imperial College
+- Zhijing Jin, Max Planck Institute for Intelligent Systems
+- rishemjit kaur, CSIR-Central Scientific Instruments Organization
+- Katherine Keith, University of Massachusetts, Amherst
+- Rebecca Knowles, National Research Council Canada
+- Philipp Koehn, Johns Hopkins University
+- Valia Kordoni, Humboldt-Universität zu Berlin
+- Lun-Wei Ku, Academia Sinica
+- Jonathan K. Kummerfeld, University of Michigan
+- Sadao Kurohashi, Kyoto University
+- Els Lefever, LT3, Ghent University
+- Annie Lee, University of Toronto
+- Els Lefever, LT3, Ghent University
+- Junhui Li, Soochow University, Suzhou
+- Junyi Jessy Li, University of Texas at Austin
+- Lucy Lin, University of Washington
+- Annie Louis, Google Research UK
+- Wei Lu, Singapore University of Technology and Design
+- Nitin Madnani, Educational Testing Service
+- Christopher Manning, Stanford University
+- Mitchell Marcus, University of Pennsylvania
+- James H. Martin, University of Colorado Boulder
+- Aakanksha Naik, Carnegie Mellon University
+- Shrikanth Narayanan, University of Southern California
+- Graham Neubig, Carnegie Mellon University
+- Vincent Ng, University of Texas at Dallas
+- Bill Noble, University of Gothenburg
+- Kemal Oflazer, Carnegie Mellon University in Qatar
+- Eda Okur, Intel Labs
+- Miles Osborne, Bloomberg
+- Sebastian Padó, Stuttgart University
+- Yannick Parmentier, University of Lorraine
+- Siyao Peng, Georgetown University
+- Vinodkumar Prabhakaran, Google
+- Dragomir Radev, Yale University
+- Gabriela Ramirez-de-la-Rosa, Universidad Autónoma Metropolitana
+- Philip Resnik, University of Maryland
+- Michael Riley, Google
+- Ellen Riloff, University of Utah
+- Brian Roark, Google Inc.
+- Melissa Robinson, University of North Texas
+- Dan Roth, University of Pennsylvania
+- Michael Roth, University of Stuttgart
+- Salim Roukos, IBM Research AI
+- Neville Ryant, Linguistic Data Consortium
+- Horacio Saggion, Universitat Pompeu Fabra
+- Sashank Santhanam, University of North Carolina at Charlotte
+- David Schlangen, University of Potsdam
+- Sabine Schulte im Walde, University of Stuttgart
+- Brandon Sepulvado, NORC at the University of Chicago
+- Ravi Shekhar, Queen Mary University of London
+- Karin Sim Smith, Iconic
+- Noah A. Smith, University of Washington
+- Marco Antonio Sobrevilla Cabezudo, University of São Paulo
+- Richard Sproat, Google, Japan
+- Mihai Surdeanu, University of Arizona
+- Jeniya Tabassum, The Ohio State University
+- Zeerak Talat, University of Sheffield
+- Joel Tetreault, Dataminr
+- Mokanarangan Thayaparan, University of Manchester
+- Christoph Tillmann, IBM Research
+- Sara Tonelli, FBK
+- Isabel Trancoso, INESC-ID / IST Univ. Lisbon
+- Elena Tutubalina, HSE University, Russia and Kazan Federal University, Russia and Sber AI, Russia
+- Bonnie Webber, University of Edinburgh
+- Olga Zamaraeva, University of Washington
+- Luke Zettlemoyer, University of Washington; Facebook
+- Hao Zhang, Google
+- Justine Zhang, Cornell University
