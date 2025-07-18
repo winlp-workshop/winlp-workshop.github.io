@@ -32,3 +32,4 @@ excerpt: ""
 ## Guidelines
 * [WiNLP Guidelines for Zoom Moderation](/organization/guidelines-for-zoom-moderation)
 * [WiNLP Slack Community Standards](/organization/slack-community-standards)
+* [WiNLP Sponsor Policy](/organization/sponsor-policy)
