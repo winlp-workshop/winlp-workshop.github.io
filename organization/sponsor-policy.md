@@ -1,9 +1,5 @@
 ---
 title: Sponsor Policy
-feature_text: |
-  
-feature_image: /assets/images/background_homepage.jpg
-excerpt: ""
 ---
 
 Sponsors provide key support for our organization to fund travel, lodging, registration, and bandwidth expenses for our presenters, attendees, and volunteers coordinating our event, including guaranteeing travel and registration for at least one author of each submission to the conference. In 2021, approximately 95% of our event costs were associated with these expenses, with the remaining 5% used for online event hosting, translation, and captioning services.

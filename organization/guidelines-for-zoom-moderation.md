@@ -1,9 +1,5 @@
 ---
 title: WiNLP Guidelines for Zoom Moderation
-feature_text: |
-  
-feature_image: /assets/images/background_homepage.jpg
-excerpt: ""
 ---
 
 These guidelines are intended to help protect all WiNLP attendees and speakers in our Zoom events. 

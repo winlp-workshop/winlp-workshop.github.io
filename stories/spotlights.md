@@ -2,13 +2,20 @@
 title: Stories
 feature_text: |
   
-feature_image: /assets/images/background_homepage.jpg
+feature_image: /assets/images/cropped-computerWoman1-3.jpg
 excerpt: ""
 ---
 
+
+This is a public directory of primarily people from underrepresented groups in NLP, as well as supporters who are interested in actively increasing diversity in the NLP community. It is maintained by the **BIG NLP initiative**, which stands for “broad interest group for equity in natural language processing”.
+
+This is related to efforts including the [Directory of Women in Machine Learning](https://www.wiml.org/directory) and [WiNLP](https://www.winlp.org/). To join the directory, fill in the [Google Survey](https://docs.google.com/forms/d/e/1FAIpQLSfS-UFPZ1hmH2Z-E50kMscuzilv4eUjf2l-7cSA-GD8Lj66oQ/viewform). The directory is also available as CV file downloads ([members](https://drive.google.com/file/d/109-JmrJLBmho2QC4NBYgDQzdeoKtnm0B/view), [supporters](https://drive.google.com/file/d/1PX4bx80LxojHF9ADAAna776mlbxe2UDe/view?usp=sharing)).
+
+
+
 ## Afra Alishahi
 
-<img src="/assets/images/spotlights/Afra_Alishahi-225x300.jpg" style="width:100%;" />
+<img src="/assets/images/spotlights/Afra_Alishahi-225x300.jpg" style="width: 150px; height: 150px; object-fit: cover;" />
 
 I am an associate professor at Tilburg University, the Netherlands. My research focuses on applying computational techniques for modeling human cognition, specifically human language acquisition and processing. I was born in Tehran, Iran, where I lived till 2002. I was always interested in Math. Towards the end of high school, a favorite cousin of mine talked me into studying “computers”. There was no real computer science program offered in Iran when I started the university, so I did a bachelor’s in software engineering and then a master’s in artificial intelligence before moving to Canada to do a PhD in computer science at the University of Toronto.
 
@@ -18,7 +25,7 @@ In my own field I suspect the next trend to be unsupervised learning of language
 
 ## Pascale Fung’s Human Language Technology Center
 
-<img src="/assets/images/spotlights/fung_group-768x512.jpg" style="width:100%;" />
+<img src="/assets/images/spotlights/fung_group-768x512.jpg" style="width: 150px; height: 150px; object-fit: cover;" />
 
 I co-founded the Human Language Technology Center back in 1997, 20 years ago. This is a joint center between the departments of Electronic and Computer Engineering and Computer Science and Engineering of the Hong Kong University of Science and Technology. We work on multilingual, multimodal and interactive aspects of speech and language processing. In particular, we were the first group who worked on accented Mandarin speech recognition and colloquial Chinese language understanding. We built the first Chinese natural language search engine back in 2001 and the first Chinese language virtual assistant on the smartphone in 2010. We also work on code-switching in speech and language modeling. More recently, we have been focusing on building interactive systems with both traditional spoken language understanding and an additional empathy module.
 
@@ -34,7 +41,7 @@ Dario Bertero, Chao Xianjin, Anik Dey, Akanksha Gupta (undergrad project student
 
 ## Varada Kolhatkar
 
-<img src="/assets/images/spotlights/Varada_Kolhatkar-768x768.jpg" style="width:100%;" />
+<img src="/assets/images/spotlights/Varada_Kolhatkar-768x768.jpg" style="width: 150px; height: 150px; object-fit: cover;" />
 
 I was born in Pune, India. I came to the U.S. to do my M.Sc. in computer science at the University of Minnesota, Duluth and then moved to Canada for my Ph.D. in computational linguistics at the University of Toronto. I am now a postdoctoral researcher at Simon Fraser University.
 
@@ -46,7 +53,7 @@ I like the work I’ve done so far but the proud moment has yet to come. I feel 
 
 ## Barbara Plank
 
-<img src="/assets/images/spotlights/barbara_plank-768x518.jpg" style="width:100%;" />
+<img src="/assets/images/spotlights/barbara_plank-768x518.jpg" style="width: 150px; height: 150px; object-fit: cover;" />
 
 I am an assistant professor at the University of Groningen. Much of my work focuses on building Natural Language Processing (NLP) models that are more robust: that work better on unexpected inputs (like new domains and languages) and can be trained from semi-automatically or weakly annotated data from a variety of sources. This includes leveraging what I call fortuitous data: sources that so far have been neglected or rest in non-obvious places.
 
@@ -60,7 +67,7 @@ What currently doesn’t get enough attention in NLP is evaluation. This include
 
 ## Zornitsa Kozareva
 
-<img src="/assets/images/spotlights/zornitsa_kozareva-768x768.jpg" style="width:100%;" />
+<img src="/assets/images/spotlights/zornitsa_kozareva-768x768.jpg" style="width: 150px; height: 150px; object-fit: cover;" />
 
 I am a Manager of the AWS Deep Learning group at Amazon that solves and builds natural language processing and dialogue applications. Previously, I was a Senior Manager at Yahoo! leading the Query Understanding and User Intent group that powered Mobile Search and Advertisement. Before that I wore an academic hat as a Research Professor at the University of Southern California CS Department with affiliation to Information Sciences Institute, where I spearheaded research funded by DARPA and IARPA on learning to read, interpreting metaphors and building knowledge bases from the Web. My interests lie in building intelligent NLP systems that scale to billions of data points, work across different domains and verticals, and most importantly solve real world problems for the end user.
 
@@ -74,7 +81,7 @@ One area I am particularly excited about is open domain multi-modal conversation
 
 ## Yuki Arase
 
-<img src="/assets/images/spotlights/Yuki_Arase-min.jpg" style="width:100%;" />
+<img src="/assets/images/spotlights/Yuki_Arase-min.jpg" style="width: 150px; height: 150px; object-fit: cover;" />
 
 I am an associate professor at Osaka University, born in Tokushima, a small city in Japan. I work on phrase alignment, which can be applied for phrasal paraphrase and parallel phrase detection. More recently, I have also started working on conversation systems in collaboration with the team at Microsoft Research Asia who developed the popular chat-bot service Rinna. I see the future of NLP in advanced automatic conversation systems that really understand us.
 
@@ -87,7 +94,7 @@ One of the strategies I have seen female computer scientists use to try and fit 
 
 ## Natalie Schluter
 
-<img src="/assets/images/spotlights/natalie_schluter.jpg" style="width:100%;" />
+<img src="/assets/images/spotlights/natalie_schluter.jpg" style="width: 150px; height: 150px; object-fit: cover;" />
 
 I was born in Vancouver, but now live in Denmark, where I’m Assistant Professor at the IT University of Copenhagen. As part of my role, I helped establish and now act as the Head of the first Data Science BSc Program in Denmark. This is a busy and thrilling part of my job where I directly help shape the data science competency pool in Denmark.
 
@@ -101,7 +108,7 @@ Surprisingly, my education is problematic for many, some inferring that I kept s
 
 ## Dong Nguyen
 
-<img src="/assets/images/spotlights/dong_yu-768x768.jpg" style="width:100%;" />
+<img src="/assets/images/spotlights/dong_yu-768x768.jpg" style="width: 150px; height: 150px; object-fit: cover;" />
 
 I am a research fellow at the Alan Turing Institute, researching large-scale text analysis to shed light on social and cultural phenomena. Much of my work focuses on the social aspects of language use and fits within the emerging area of computational sociolinguistics. I am also very interested in methodological issues that arise with interdisciplinary research and specifically the interaction between ML/NLP and the social sciences.
 
@@ -117,7 +124,7 @@ One big challenge I see in NLP is that there seems to be an almost exclusive foc
 
 ## Wei Xu
 
-<img src="/assets/images/spotlights/weixu_photo.png" style="width:100%;" />
+<img src="/assets/images/spotlights/weixu_photo.png" style="width: 150px; height: 150px; object-fit: cover;" />
 
 I am an assistant professor in Computer Science at Ohio State University. I do research on semantics, social media data and natural language generation. I am extremely interested in the intersection of these three areas — paraphrases!
 
@@ -129,7 +136,7 @@ For my postdoc, I moved to the University of Pennsylvania in 2014. I started to 
 
 ## Martha Palmer
 
-<img src="/assets/images/spotlights/martha_palmer-768x960.jpg" style="width:100%;" />
+<img src="/assets/images/spotlights/martha_palmer-768x960.jpg" style="width: 150px; height: 150px; object-fit: cover;" />
 
 I am a professor at the University of Colorado at Boulder, where I research abstract representations that can consistently and effectively capture key elements of meaning.
 

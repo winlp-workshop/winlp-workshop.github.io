@@ -1,9 +1,5 @@
 ---
 title: WiNLP Slack Community Standards
-feature_text: |
-  
-feature_image: /assets/images/background_homepage.jpg
-excerpt: ""
 ---
 
 *Last updated April 26, 2021*
