@@ -30,18 +30,53 @@ The full-day event includes invited talks, oral presentations, and poster sessio
 - **Jun 21, 2025**: [Pre-mentorship deadline](https://x.com/WiNLPWorkshop/status/1936108940468838644) is TODAY!
 - **Jun 11, 2025**: [Call for papers](https://x.com/WiNLPWorkshop/status/1932730646084137043) is out!
 
-## Important Dates
+---
 
-TO-DO
+## Important Dates 📆
 
-## Keynote Speakers
+All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
+
+| Event                             | Date               |
+| --------------------------------- | ------------------ |
+| Pre-submission mentoring deadline | June 20, 2025      |
+| Pre-submission feedback returned  | July 18, 2025      |
+| Paper submission deadline         | August 1, 2025     |
+| Acceptance notifications          | September 15, 2025 |
+| Camera-ready deadline             | October 1, 2025    |
+| Travel grant applications due     | September 26, 2025 |
+| Travel grant notifications        | October 6, 2025    |
+
+---
+
+## Keynote Speakers 👩‍🏫
 
 To be announced. Please stay tuned!
 
-## Organizers
+---
 
-TO-DO
+## Organizers 🌍
 
-## Social Media
+- Person A
+- Person B
+- Person C
 
-TO-DO
+<div style="text-align: center;">
+  <a href="https://x.com/WiNLPWorkshop" target="_blank" style="text-decoration: none; margin-right: 10px; display: inline-block;">
+    <img src="/assets/buttons/X_logo.jpg" alt="X" width="32" height="32" style="vertical-align: middle;">
+  </a>
+  <a href="https://www.facebook.com/WideningNLP" target="_blank" style="text-decoration: none; margin-right: 10px; display: inline-block;">
+    <img src="/assets/buttons/FB_logo.png" alt="Facebook" width="32" height="32" style="vertical-align: middle;">
+  </a>
+  <a href="https://www.linkedin.com/company/winlp" target="_blank" style="text-decoration: none; margin-right: 10px; display: inline-block;">
+    <img src="/assets/buttons/LinkedIn_logo.png" alt="LinkedIn" width="32" height="32" style="vertical-align: middle;">
+  </a>
+  <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk2OTA2MDc5NQ%3D%3D&scene=124#wechat_redirect" target="_blank" style="text-decoration: none; margin-right: 10px; display: inline-block;">
+    <img src="/assets/buttons/WeChat_logo.svg" alt="WeChat" width="32" height="32" style="vertical-align: middle;">
+  </a>
+  <a href="https://www.xiaohongshu.com/user/profile/6125f1bf0000000001000327" target="_blank" style="text-decoration: none; margin-right: 10px; display: inline-block;">
+    <img src="/assets/buttons/Xiaohongshu_logo.png" alt="Xiaohongshu" width="32" height="32" style="vertical-align: middle;">
+  </a>
+  <a href="mailto:winlp-chairs@googlegroups.com" target="_blank" style="text-decoration: none; margin-right: 10px; display: inline-block;">
+    <img src="/assets/buttons/Email_logo.png" alt="Email" width="32" height="32" style="vertical-align: middle;">
+  </a>
+</div>
