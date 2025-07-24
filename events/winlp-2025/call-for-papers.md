@@ -12,7 +12,7 @@ excerpt: ""
 
 The **Widening NLP (WiNLP)** workshop aims to foster an inclusive environment that highlights the contributions of researchers from underrepresented groups in NLP. Anyone who self-identifies as being from an underrepresented background—based on gender, ethnicity, nationality, sexual orientation, disability, or otherwise—is encouraged to submit. In 2025, WiNLP will continue placing emphasis on access, disability, and diversity across scientific backgrounds, disciplines, training, and underrepresented languages.
 
-Our annual Widening Natural Language Processing Workshop (WiNLP) will be held in conjunction with **EMNLP 2025 in Suzhou, China**. Since EMNLP is anticipating a hybrid format for their conference, we also anticipate our workshop will be hybrid, with both online and in-person attendees. The one-day workshop will occur during EMNLP’s workshop period with an exact date to be announced soon.
+Our annual Widening Natural Language Processing Workshop (WiNLP) will be held in conjunction with **[EMNLP 2025](https://2025.emnlp.org/)** in **Suzhou, China**. Since EMNLP is anticipating a hybrid format for their conference, we also anticipate our workshop will be hybrid, with both online and in-person attendees. The one-day workshop will occur during EMNLP’s workshop period with an exact date to be announced soon.
 
 The full-day event includes invited talks, oral presentations, and poster sessions. The workshop provides an excellent opportunity for junior members in the community to showcase their work and connect with senior mentors for feedback and career advice.  It also offers recruitment opportunities with leading industrial labs. Most importantly,  the workshop will provide an inclusive and accepting space, and work to lower structural barriers to joining and collaborating with the NLP community at large.
 
@@ -129,4 +129,6 @@ Authors are encouraged to explore local funding options (e.g., institutional sup
 - **Twitter**: [@winlpworkshop](https://twitter.com/WiNLPWorkshop)
 - **Facebook**: [Widening NLP](https://www.facebook.com/WideningNLP)
 - **LinkedIn**: [Widening NLP](https://www.linkedin.com/company/winlp)
+- **WeChat**: [WiNLP](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk2OTA2MDc5NQ%3D%3D&scene=124#wechat_redirect)
+- **Xiaohongshu**: [WiNLP](https://www.xiaohongshu.com/user/profile/6125f1bf0000000001000327)
 - **Email**: [winlp-chairs@googlegroups.com](mailto:winlp-chairs@googlegroups.com)

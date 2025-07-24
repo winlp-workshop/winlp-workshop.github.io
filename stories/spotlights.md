@@ -6,12 +6,15 @@ feature_image: /assets/images/cropped-computerWoman1-3.jpg
 excerpt: ""
 ---
 
+---
 
 This is a public directory of primarily people from underrepresented groups in NLP, as well as supporters who are interested in actively increasing diversity in the NLP community. It is maintained by the **BIG NLP initiative**, which stands for “broad interest group for equity in natural language processing”.
 
 This is related to efforts including the [Directory of Women in Machine Learning](https://www.wiml.org/directory) and [WiNLP](https://www.winlp.org/). To join the directory, fill in the [Google Survey](https://docs.google.com/forms/d/e/1FAIpQLSfS-UFPZ1hmH2Z-E50kMscuzilv4eUjf2l-7cSA-GD8Lj66oQ/viewform). The directory is also available as CV file downloads ([members](https://drive.google.com/file/d/109-JmrJLBmho2QC4NBYgDQzdeoKtnm0B/view), [supporters](https://drive.google.com/file/d/1PX4bx80LxojHF9ADAAna776mlbxe2UDe/view?usp=sharing)).
 
 
+
+---
 
 ## Afra Alishahi
 
@@ -22,6 +25,8 @@ I am an associate professor at Tilburg University, the Netherlands. My research 
 Over the course of my scientific career, I have worked on modeling several aspects of child language development, including the acquisition of words, lexical categories and argument structure constructions in monolingual and bilingual communities. More recently I have been working on grounded models of language learning from naturalistic input (raw speech and naturalistic images). I believe my research, as well as others who work on similar topics, has contributed to our understanding of child language acquisition, and also brought cognitive models of language more into focus in the NLP community in recent years. What I find challenging in NLP research is to keep up with the pace with which the field moves forward, but at the same time it keeps us alert and makes our research more exciting.
 
 In my own field I suspect the next trend to be unsupervised learning of language from more realistic multimodal input such as video, situated in interactive environments. Much effort in NLP research is put into developing models and techniques that provide better results, but quantitative and qualitative analysis of what models actually learn does not receive enough attention. I hope more researchers focus on understanding the nature of linguistic knowledge learned by computational models.
+
+---
 
 ## Pascale Fung’s Human Language Technology Center
 
@@ -39,6 +44,8 @@ Group members in the photo, in alphabetical order:
 
 Dario Bertero, Chao Xianjin, Anik Dey, Akanksha Gupta (undergrad project student), Onno Kampman, Nayeon Lee, Naziba Mostafa, Ji Ho Park, Qi Zihao, Jaemin Shin, Farhad Bin Siddique, Genta Indra Winata, Xu Peng, Emily Yang
 
+---
+
 ## Varada Kolhatkar
 
 <img src="/assets/images/spotlights/Varada_Kolhatkar-768x768.jpg" style="width: 150px; height: 150px; object-fit: cover;" />
@@ -50,6 +57,8 @@ I did not really think very deeply when I started my undergraduate degree in com
 I think deeper analysis from the perspective of understanding language is not getting much attention in the field. In our papers, we say which features work well and which do not by carrying out ablation experiments. But we only provide relatively superficial explanations. We see many papers with sophisticated models that work well. But there is no deeper analysis of why these models work so well and what kind of linguistic characteristics these models are capturing. I also feel that proper evaluation does not get enough attention. I believe one of the next topics to get more attention will be filtering toxic text on the web, discourse processing, and argumentation mining.
 
 I like the work I’ve done so far but the proud moment has yet to come. I feel that finding an appropriate job and building a network is one of the main challenges for an early-career professional in NLP, which is probably shared by all early career researchers, not just women or other minority groups. I hope that initiatives like WiNLP will help tackle barriers for early-career professionals in NLP, especially women and other underrepresented groups in the field.
+
+---
 
 ## Barbara Plank
 
@@ -65,6 +74,8 @@ I think one of the hottest research directions in NLP will be, and already is, t
 
 What currently doesn’t get enough attention in NLP is evaluation. This includes both in-depth and thorough studies that shed light on why certain approaches do (or do not) work, as well as work that questions established evaluation measures. Such work is typically hard to publish.
 
+---
+
 ## Zornitsa Kozareva
 
 <img src="/assets/images/spotlights/zornitsa_kozareva-768x768.jpg" style="width: 150px; height: 150px; object-fit: cover;" />
@@ -79,6 +90,8 @@ I think one challenge in NLP is that sometimes methods and algorithms that are s
 
 One area I am particularly excited about is open domain multi-modal conversational assistants that can understand and help humans in their daily lives. I think this research area will receive a lot of attention in the coming years. I envision such dialog systems to be personalized, context-aware with the capability of automatically learning about new intents directly from human conversations.
 
+---
+
 ## Yuki Arase
 
 <img src="/assets/images/spotlights/Yuki_Arase-min.jpg" style="width: 150px; height: 150px; object-fit: cover;" />
@@ -91,6 +104,8 @@ What I find challenging as a researcher that is not unique in NLP is a gap betwe
 We further put excessive emphasis on numbers, i.e., scores on precision or BLEU, but neglect analysing data and outputs to understand research problems.
 
 One of the strategies I have seen female computer scientists use to try and fit in is, intentionally or unintentionally, hiding preferences or characteristics thought of as a being stereotypically female to feel “included” in a male-centric community. For instance, following the stereotype of a hardworking male researcher, staying in the lab until late despite being tired and pretending not to be interested in anything apart from work. On a superficial level this works, but might lead to a feeling of losing one’s true self. And worse, we may distance ourselves from female friends who are members of more balanced communities for behaving differently from their male counterparts. Increasing diversity in a community and promoting minorities through initiatives such as this workshop does help to change such situations, but it will take time. In the meantime, it is important to keep friends across communities to have a place to behave naturally.
+
+---
 
 ## Natalie Schluter
 
@@ -105,6 +120,8 @@ Related to this is the growing problem of recent state-of-the-art learning archi
 I have several different degrees, which I worked really hard for and am quite proud of. At university, I wanted to study mathematics, but had a stronger desire to travel. That is when I started getting more interested in the structure of language. When I started studying math at UBC, Vancouver, I also took some linguistics courses, and then switched over to linguistics, finishing my first BA in this. Desiring to understand the mathematics better, I then went to Montréal and finished a BSc in Mathematics. However, I felt a Linguistics pang and then finished an MSc in Linguistics also at the University of Montréal. Of course, I then felt a pang for more mathematics and went on to finish an MSc in Mathematics at Trinity College, University of Dublin, Ireland. Natural language processing was a good field in which to reconcile my interests. I completed a PhD in Natural Language Processing at Dublin City University.
 
 Surprisingly, my education is problematic for many, some inferring that I kept switching degrees because I was not very good at any one thing or was confused. I’ve even got “her background is, well… broad” as a dismissing and the only remark in a formal presentation of my research in front of group of peers. I believe that the perception of my academic achievements has been negative because I am a woman, black or both. Rather than being a couple random examples of our careers as minorities, such incidents are (always surprisingly) frequent. I believe that there is little awareness of their pervasiveness and if there were, the vast majority of the NLP community would support initiatives like WiNLP. However, WiNLP is in virtue of its name a closed community. We need broader community-wide outreach.
+
+---
 
 ## Dong Nguyen
 
@@ -122,6 +139,8 @@ I have found the NLP community to be very welcoming and initiatives like WiNLP g
 
 One big challenge I see in NLP is that there seems to be an almost exclusive focus on task performance, measuring the quality of the models using abstract metrics. Analysis studies are often undervalued and difficult to publish, although thorough, insightful analyses are valuable and difficult to carry out.
 
+---
+
 ## Wei Xu
 
 <img src="/assets/images/spotlights/weixu_photo.png" style="width: 150px; height: 150px; object-fit: cover;" />
@@ -133,6 +152,8 @@ When I was a PhD student at New York University, I was intrigued by how many dif
 For my postdoc, I moved to the University of Pennsylvania in 2014. I started to deepen in the second branch of paraphrase research — generation. I decided to take on the text simplification task as it is more technically challenging than sentence compression and practically useful for education applications. At the time, I was already very confident with my technical skills but struggled to push the MT system performance on the simplification task. There must be something wrong, I thought, either in the data or evaluation. It turned out to be both. I wrote a TACL paper in 2015 to show the state-of-the-art setup was not right for simplification using Simple Wikipedia data since 2010. I was relieved when Shashi Narayan, who held the then best performing system, told me that it was great and he shared the same concerns. I felt I did justice to many researchers who worked on simplification and likely struggled for months, and PhD students who had to abandon their projects. This is what motivates me to work, besides my students.
 
 [#IMHO](https://www.facebook.com/hashtag/imho?source=feed_text&story_id=1845970222335321) The biggest challenge in NLP (and academia in general) is how to maintain high-quality peer review and reward quality work beyond numbers of publications, especially when the field is exploding. Additional efforts are also needed in its globalization. When I was an area chair for EMNLP, even as a native Chinese speaker I felt it was difficult to recruit program committee members from Chinese names in their English spellings. I am sure similar challenges apply to Vietnamese and some other nationalities.
+
+---
 
 ## Martha Palmer
 

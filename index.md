@@ -21,6 +21,7 @@ The full-day event includes invited talks, oral presentations, and poster sessio
   {% include button.html text="Program 📆" link="events/winlp-2025/program" color="#490B7E" %}
   {% include button.html text="Past Events 🎞️" link="events/past-events" color="#490B7E" %}
 </div>
+---
 
 ## News 🛎️
 
