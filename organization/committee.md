@@ -38,7 +38,7 @@ excerpt: ""
 
   <div style="text-align: center; width: 220px;">
     <img src="/assets/images/winlp-2025/organizers/Yinqiao-Li.jpeg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="https://github.com/liyinqiao2012/myCV/blob/master/CV-YinqiaoLi.pdf" target="_blank">LI Yinqiao</a></strong><br>
+    <strong><a href="https://liyinqiao2012.github.io/" target="_blank">LI Yinqiao</a></strong><br>
     <span style="font-size: smaller;">City University of Hong Kong</span>
   </div>
 
