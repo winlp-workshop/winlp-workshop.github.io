@@ -23,7 +23,7 @@ The full-day event includes invited talks, oral presentations, and poster sessio
 </div>
 ---
 
-## News 🛎️
+## 🛎️ News 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 Calling all NLP researchers!<br><br>WiNLP 2025 is seeking mentors for our pre-submission program 💫<br><br>Help early-career authors &amp; underrepresented voices improve their work.<br>🗓️ Assignments: June 27<br>🗓️ Feedback due: July 11<br><br>Interested? Reply to join!<a href="https://twitter.com/hashtag/WiNLP?src=hash&amp;ref_src=twsrc%5Etfw">#WiNLP</a> <a href="https://twitter.com/hashtag/Mentorship?src=hash&amp;ref_src=twsrc%5Etfw">#Mentorship</a> <a href="https://twitter.com/hashtag/EMNLP2025?src=hash&amp;ref_src=twsrc%5Etfw">#EMNLP2025</a> <a href="https://t.co/r6bM7SNJv8">pic.twitter.com/r6bM7SNJv8</a></p>&mdash; WiNLP (@WiNLPWorkshop) <a href="https://twitter.com/WiNLPWorkshop/status/1937816403547206073?ref_src=twsrc%5Etfw">June 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -33,7 +33,7 @@ The full-day event includes invited talks, oral presentations, and poster sessio
 
 ---
 
-## Important Dates 📆
+## 📆 Important Dates 
 
 All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
 
@@ -49,21 +49,100 @@ All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
 
 ---
 
-## Keynote Speakers 👩‍🏫
+## 👩‍🏫 Keynote Speakers 
 
 To be announced. Please stay tuned!
 
 ---
 
-## Organizers 🌍
+## 🌍 Organizers 
 
-- Person A
-- Person B
-- Person C
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="text-align: center; width: 250px;">
+    <img src="/assets/images/winlp-2025/organizers/chen_zhang.jpeg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://luciusssss.github.io/" target="_blank">Chen Zhang</a></strong><br>
+    <span style="font-size: smaller;">Peking University</span>
+  </div>  
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://emilyallaway.github.io/" target="_blank">Emily Allaway</a></strong><br>
+    <span style="font-size: smaller;">University of Edinburgh</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2025/organizers/Hua_Shen.jpeg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://hua-shen.org/" target="_blank">Hua Shen</a></strong><br>
+    <span style="font-size: smaller;">New York University (Shanghai) / University of Washington</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="" target="_blank">Lesly Miculicich</a></strong><br>
+    <span style="font-size: smaller;">Google</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2025/organizers/Yinqiao-Li.jpeg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://github.com/liyinqiao2012/myCV/blob/master/CV-YinqiaoLi.pdf" target="_blank">LI Yinqiao</a></strong><br>
+    <span style="font-size: smaller;">City University of Hong Kong</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2025/organizers/Meryem-M&apos;hamdi.jpeg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://meryemmhamdi1.github.io/" target="_blank">Meryem M'hamdi</a></strong><br>
+    <span style="font-size: smaller;">Meta</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2025/organizers/peerat-limkonchotiwat.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://mrpeerat.github.io/" target="_blank">Peerat Limkonchotiwat</a></strong><br>
+    <span style="font-size: smaller;">AI Singapore</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2025/organizers/richard-bai.JPG" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://richardbaihe.github.io" target="_blank">Richard He Bai</a></strong><br>
+    <span style="font-size: smaller;">Apple</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2025//organizers/Santosh.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://scholar.google.com/citations?user=aYytWsAAAAAJ&hl=en" target="_blank">Santosh T.Y.S.S.</a></strong><br>
+    <span style="font-size: smaller;">Amazon
+</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2025/organizers/Simeng_Han.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://sophiahan6.github.io/" target="_blank">Sophia Simeng Han</a></strong><br>
+    <span style="font-size: smaller;">Yale University</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2025/organizers/Surendrabikram-Thapa.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://www.therealthapa.com/" target="_blank">Surendrabikram Thapa</a></strong><br>
+    <span style="font-size: smaller;">Virginia Tech, USA</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://www.wiembnr.com/" target="_blank">Wiem Ben Rim</a></strong><br>
+    <span style="font-size: smaller;">University College London</span>
+  </div>
+
+</div>
+
+---
 
 <div style="text-align: center;">
   <a href="https://x.com/WiNLPWorkshop" target="_blank" style="text-decoration: none; margin-right: 10px; display: inline-block;">
     <img src="/assets/buttons/X_logo.jpg" alt="X" width="32" height="32" style="vertical-align: middle;">
+  </a>
+  <a href="https://bsky.app/profile/winlpworkshop.bsky.social" target="_blank" style="text-decoration: none; margin-right: 10px; display: inline-block;">
+    <img src="/assets/buttons/Bluesky_logo.png" alt="Bluesky" width="32" height="32" style="vertical-align: middle;">
   </a>
   <a href="https://www.facebook.com/WideningNLP" target="_blank" style="text-decoration: none; margin-right: 10px; display: inline-block;">
     <img src="/assets/buttons/FB_logo.png" alt="Facebook" width="32" height="32" style="vertical-align: middle;">
