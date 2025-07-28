@@ -90,7 +90,53 @@ excerpt: ""
 
 ---
 
-## 2022-2025 Advisory Board
+## 2025 Workshop Advisory Board 
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="/organization/committee" target="_blank">Alham Fikri Aji</a></strong><br>
+    <span style="font-size: smaller;"></span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="/organization/committee" target="_blank">Helena Gomez-Adorno</a></strong><br>
+    <span style="font-size: smaller;"></span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="/organization/committee" target="_blank">Sarvnaz Karimi</a></strong><br>
+    <span style="font-size: smaller;"></span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="/organization/committee" target="_blank">Sunayana Sitaram</a></strong><br>
+    <span style="font-size: smaller;"></span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="/organization/committee" target="_blank">Viviane Moreira</a></strong><br>
+    <span style="font-size: smaller;"></span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="/organization/committee" target="_blank">Zeerak Talat</a></strong><br>
+    <span style="font-size: smaller;"></span>
+  </div>
+
+</div>
+
+---
+
+## 2022-2024 Advisory Board
+
 * **Amittai Axelrod**, Apple
 * **Kalika Bali**, Microsoft Research India
 * **Hal Daumé III**, Associate Professor, University of Maryland & Microsoft Research

@@ -137,6 +137,51 @@ To be announced. Please stay tuned!
 
 ---
 
+## 🏛️ Advisory Board 
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="/index" target="_blank">Alham Fikri Aji</a></strong><br>
+    <span style="font-size: smaller;"></span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="/index" target="_blank">Helena Gomez-Adorno</a></strong><br>
+    <span style="font-size: smaller;"></span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="/index" target="_blank">Sarvnaz Karimi</a></strong><br>
+    <span style="font-size: smaller;"></span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="/index" target="_blank">Sunayana Sitaram</a></strong><br>
+    <span style="font-size: smaller;"></span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="/index" target="_blank">Viviane Moreira</a></strong><br>
+    <span style="font-size: smaller;"></span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="/index" target="_blank">Zeerak Talat</a></strong><br>
+    <span style="font-size: smaller;"></span>
+  </div>
+
+</div>
+
+---
+
 <div style="text-align: center;">
   <a href="https://x.com/WiNLPWorkshop" target="_blank" style="text-decoration: none; margin-right: 10px; display: inline-block;">
     <img src="/assets/buttons/X_logo.jpg" alt="X" width="32" height="32" style="vertical-align: middle;">
