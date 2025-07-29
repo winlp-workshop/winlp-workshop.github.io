@@ -25,8 +25,9 @@ The full-day event includes invited talks, oral presentations, and poster sessio
 
 ## 🛎️ News 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 Calling all NLP researchers!<br><br>WiNLP 2025 is seeking mentors for our pre-submission program 💫<br><br>Help early-career authors &amp; underrepresented voices improve their work.<br>🗓️ Assignments: June 27<br>🗓️ Feedback due: July 11<br><br>Interested? Reply to join!<a href="https://twitter.com/hashtag/WiNLP?src=hash&amp;ref_src=twsrc%5Etfw">#WiNLP</a> <a href="https://twitter.com/hashtag/Mentorship?src=hash&amp;ref_src=twsrc%5Etfw">#Mentorship</a> <a href="https://twitter.com/hashtag/EMNLP2025?src=hash&amp;ref_src=twsrc%5Etfw">#EMNLP2025</a> <a href="https://t.co/r6bM7SNJv8">pic.twitter.com/r6bM7SNJv8</a></p>&mdash; WiNLP (@WiNLPWorkshop) <a href="https://twitter.com/WiNLPWorkshop/status/1937816403547206073?ref_src=twsrc%5Etfw">June 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📣 Final Reminder!<br><br>📅 Submissions due August 1 for <a href="https://twitter.com/hashtag/WiNLP?src=hash&amp;ref_src=twsrc%5Etfw">#WiNLP</a> @ <a href="https://twitter.com/hashtag/EMNLP2025?src=hash&amp;ref_src=twsrc%5Etfw">#EMNLP2025</a> (Suzhou + Hybrid)!<br><br>🙌 Centering voices from underrepresented groups in NLP<br><br>📝 CFP + Submission: <br>🔗<a href="https://t.co/oEJkrk5Fye">https://t.co/oEJkrk5Fye</a><br><br>🔗<a href="https://t.co/dLhm2mjZjN">https://t.co/dLhm2mjZjN</a><a href="https://twitter.com/hashtag/NLProc?src=hash&amp;ref_src=twsrc%5Etfw">#NLProc</a> <a href="https://twitter.com/hashtag/Inclusion?src=hash&amp;ref_src=twsrc%5Etfw">#Inclusion</a> <a href="https://twitter.com/hashtag/WiNLP?src=hash&amp;ref_src=twsrc%5Etfw">#WiNLP</a> <a href="https://t.co/aML1DJ2Pb1">pic.twitter.com/aML1DJ2Pb1</a></p>&mdash; WiNLP (@WiNLPWorkshop) <a href="https://twitter.com/WiNLPWorkshop/status/1949358235607060813?ref_src=twsrc%5Etfw">July 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+- **July 27, 2025**: [Final Reminder: Submissions due August 1!](https://x.com/WiNLPWorkshop/status/1949358235607060813)
 - **Jun 25, 2025**: [Call for mentors](https://x.com/WiNLPWorkshop/status/1937816403547206073) is out!
 - **Jun 21, 2025**: [Pre-mentorship deadline](https://x.com/WiNLPWorkshop/status/1936108940468838644) is TODAY!
 - **Jun 11, 2025**: [Call for papers](https://x.com/WiNLPWorkshop/status/1932730646084137043) is out!
@@ -86,7 +87,7 @@ To be announced. Please stay tuned!
 
   <div style="text-align: center; width: 220px;">
     <img src="/assets/images/winlp-2025/organizers/Yinqiao-Li.jpeg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="https://liyinqiao2012.github.io/" target="_blank">LI Yinqiao</a></strong><br>
+    <strong><a href="https://liyinqiao.com/" target="_blank">LI Yinqiao</a></strong><br>
     <span style="font-size: smaller;">City University of Hong Kong</span>
   </div>
 
