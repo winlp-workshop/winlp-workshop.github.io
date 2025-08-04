@@ -125,7 +125,7 @@ Authors are encouraged to explore local funding options (e.g., institutional sup
 
 ## Contact Information
 
-- **Website**: [https://www.winlp.org/call-for-submissions-2025/](https://www.winlp.org/call-for-submissions-2025/)
+- **Website**: [https://winlp-workshop.github.io/events/winlp-2025/call-for-papers/](https://winlp-workshop.github.io/events/winlp-2025/call-for-papers/)
 - **Twitter**: [@winlpworkshop](https://twitter.com/WiNLPWorkshop)
 - **Facebook**: [Widening NLP](https://www.facebook.com/WideningNLP)
 - **LinkedIn**: [Widening NLP](https://www.linkedin.com/company/winlp)

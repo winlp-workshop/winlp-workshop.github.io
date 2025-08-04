@@ -133,20 +133,6 @@ excerpt: ""
 
 </div>
 
----
-
-## 2022-2024 Advisory Board
-
-* **Amittai Axelrod**, Apple
-* **Kalika Bali**, Microsoft Research India
-* **Hal Daumé III**, Associate Professor, University of Maryland & Microsoft Research
-* **[Jason Eisner](http://cs.jhu.edu/~jason)**, Johns Hopkins University & Microsoft Semantic Machines
-* **[Annie Lee](https://www.linkedin.com/in/drannielee/)**, University of Toronto
-* **Meg Mitchell**, Ethical AI LLC
-* **Lay-Ki Soon**,  School of Information Technology, Monash University Malaysia
-* **Zeerak Talat**, University of Sheffield
-* **[Karin Verspoor](https://www.rmit.edu.au/profiles/v/karin-verspoor)**, RMIT University, The University of Melbourne
-* **Klaus Zechner**, Educational Testing Service
 
 ---
 
