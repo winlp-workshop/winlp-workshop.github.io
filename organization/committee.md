@@ -114,9 +114,9 @@ excerpt: ""
   </div>
 
   <div style="text-align: center; width: 220px;">
-    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="/organization/committee" target="_blank">Sunayana Sitaram</a></strong><br>
-    <span style="font-size: smaller;"></span>
+    <img src="/assets/images/winlp-2025/board/sunayana.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://www.microsoft.com/en-us/research/people/susitara/" target="_blank">Sunayana Sitaram</a></strong><br>
+    <span style="font-size: smaller;">Microsoft Research India</span>
   </div>
 
   <div style="text-align: center; width: 220px;">
@@ -126,9 +126,9 @@ excerpt: ""
   </div>
 
   <div style="text-align: center; width: 220px;">
-    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="/organization/committee" target="_blank">Zeerak Talat</a></strong><br>
-    <span style="font-size: smaller;"></span>
+    <img src="/assets/images/winlp-2025/board/zeerak.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://zeerak.org" target="_blank">Zeerak Talat</a></strong><br>
+    <span style="font-size: smaller;">University of Edinburgh</span>
   </div>
 
 </div>
