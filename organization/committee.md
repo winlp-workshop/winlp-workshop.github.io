@@ -80,7 +80,7 @@ excerpt: ""
   </div>
 
   <div style="text-align: center; width: 220px;">
-    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <img src="/assets/images/winlp-2025/organizers/Wiem.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
     <strong><a href="https://www.wiembnr.com/" target="_blank">Wiem Ben Rim</a></strong><br>
     <span style="font-size: smaller;">University College London</span>
   </div>
