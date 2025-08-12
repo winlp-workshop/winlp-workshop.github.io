@@ -108,9 +108,9 @@ excerpt: ""
   </div>
 
   <div style="text-align: center; width: 220px;">
-    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="/organization/committee" target="_blank">Sarvnaz Karimi</a></strong><br>
-    <span style="font-size: smaller;"></span>
+    <img src="/assets/images/winlp-2025/board/sarvnaz.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://www.linkedin.com/in/sarvnaz-karimi-phd-64ab491/?originalSubdomain=au" target="_blank">Sarvnaz Karimi</a></strong><br>
+    <span style="font-size: smaller;">CSIRO</span>
   </div>
 
   <div style="text-align: center; width: 220px;">
