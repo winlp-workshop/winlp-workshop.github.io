@@ -168,9 +168,9 @@ To be announced. Please stay tuned!
   </div>
 
   <div style="text-align: center; width: 220px;">
-    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="/index" target="_blank">Viviane Moreira</a></strong><br>
-    <span style="font-size: smaller;"></span>
+    <img src="/assets/images/winlp-2025/board/viviane.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="http://www.inf.ufrgs.br/~viviane" target="_blank">Viviane Moreira</a></strong><br>
+    <span style="font-size: smaller;">UFRGS - Brazil</span>
   </div>
 
   <div style="text-align: center; width: 220px;">
