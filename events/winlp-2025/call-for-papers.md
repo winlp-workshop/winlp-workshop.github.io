@@ -18,13 +18,22 @@ The full-day event includes invited talks, oral presentations, and poster sessio
 
 ---
  
-## Update (September 2025)
+## Update: Paper commitment through ARR (Sep 2025)
 
-WiNLP 2025 are accepting pre-reviewed ARR submissions for commitment. More details are to be announced.
+**WiNLP 2025 are now accepting pre-reviewed ARR submissions for commitment.** Note that WiNLP is intended for members of underrepresented groups at all career levels: students, post-docs, professors, and other researchers. If you would like to commit your paper to our workshop, please carefully read the following guidelines.
 
-**Deadline**: September 10, 2025 
+* Submissions must not have already been accepted and/or committed to another workshop or conference, including the EMNLP main conference or Findings of EMNLP. 
+* While all are encouraged to attend WiNLP, presentation opportunities (talk/poster) are intended for underrepresented individuals in gender, ethnicity, nationality, sexual orientation, disability, or otherwise. Therefore, authors committing their papers through ARR will be asked whether they identify as a member of an underrepresented group.
+* Submissions should follow the general submission guidelines for the workshop with regard to formatting, anonymity, and topic. See “Submission Requirements” at [https://winlp-workshop.github.io/events/winlp-2025/call-for-papers/](https://openreview.net/group?id=EMNLP/2025/Workshop/WiNLP_ARR_Commitment).
+* As with direct submission, authors may choose whether their submission is archival or non-archival. Archival papers will be published in the EMNLP 2025 WiNLP Proceedings. Non-Archival papers will not appear in the proceedings. Authors will be asked to make a selection when committing their paper.
 
-**Submission Link**: [https://openreview.net/group?id=EMNLP/2025/Workshop/WiNLP_ARR_Commitment](https://openreview.net/group?id=EMNLP/2025/Workshop/WiNLP_ARR_Commitment)
+**Key dates** – all deadlines are 11:59 PM UTC-12:00 (“Anywhere on Earth”)
+* ARR commitment deadline: September 10, 2025
+* Notification of acceptance: September 15, 2025
+* Camera-ready deadline: October 1, 2025
+
+
+**Submission link:** [https://openreview.net/group?id=EMNLP/2025/Workshop/WiNLP_ARR_Commitment](https://openreview.net/group?id=EMNLP/2025/Workshop/WiNLP_ARR_Commitment)
 
 ---
 
