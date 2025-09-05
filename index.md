@@ -70,7 +70,7 @@ To be announced. Please stay tuned!
   </div>  
 
   <div style="text-align: center; width: 220px;">
-    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <img src="/assets/images/winlp-2025/organizers/Emily.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
     <strong><a href="https://emilyallaway.github.io/" target="_blank">Emily Allaway</a></strong><br>
     <span style="font-size: smaller;">University of Edinburgh</span>
   </div>
