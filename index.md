@@ -39,12 +39,12 @@ The full-day event includes invited talks, oral presentations, and poster sessio
 
 All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
 
-| Event                             | Date               |
+| **Event**                             | **Date**               |
 | --------------------------------- | ------------------ |
 | ~~Pre-submission mentoring deadline~~ | ~~June 20, 2025~~      |
 | ~~Pre-submission feedback returned~~  | ~~July 18, 2025~~      |
 | ~~Paper submission deadline~~         | ~~August 1, 2025~~     |
-| **ARR commitment deadline** | **September 10, 2025** |
+| ~~ARR commitment deadline~~ | ~~September 10, 2025~~ |
 | Acceptance notifications          | September 15, 2025 |
 | Camera-ready deadline             | October 1, 2025    |
 | Travel grant applications due     | September 26, 2025 |
@@ -146,9 +146,9 @@ To be announced. Please stay tuned!
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="text-align: center; width: 220px;">
-    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="/index" target="_blank">Alham Fikri Aji</a></strong><br>
-    <span style="font-size: smaller;"></span>
+      <img src="/assets/images/winlp-2025/board//Alham_Fikri_Aji.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+      <strong><a href="afaji.github.io" target="_blank">Alham Fikri Aji</a></strong><br>
+      <span style="font-size: smaller;">MBZUAI & Google Research</span>
   </div>
 
   <div style="text-align: center; width: 220px;">
