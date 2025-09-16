@@ -27,7 +27,7 @@ The full-day event includes invited talks, oral presentations, and poster sessio
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">⛱️WiNLP 2025 notifications are out! <br><br>🎉 Congrats to all accepted authors. <br><br>📅Camera-ready deadline: Oct 1 <br>📅 Travel/registration grant deadline: Sept 22 <br><br> 📩Check your email for details! <a href="https://twitter.com/hashtag/WiNLP?src=hash&amp;ref_src=twsrc%5Etfw">#WiNLP</a> <a href="https://twitter.com/hashtag/NLProc?src=hash&amp;ref_src=twsrc%5Etfw">#NLProc</a> <a href="https://t.co/MDwCohkq1a">pic.twitter.com/MDwCohkq1a</a></p>&mdash; WiNLP (@WiNLPWorkshop) <a href="https://twitter.com/WiNLPWorkshop/status/1967784801819361755?ref_src=twsrc%5Etfw">September 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-- **Sep 16, 2025**: [WiNLP 2025 notifications are out! Congrats to all accepted authors!](https://x.com/WiNLPWorkshop/status/1967784801819361755)
+- **Sep 16, 2025**: WiNLP 2025 notifications are out! Congrats to all accepted authors! **Please check out notificiation email for more instructions on applying for travel grants.**
 - **Sep 3, 2025**: Accepting pre-reviewed ARR submissions for commitment! See detailed instructions [here](https://winlp-workshop.github.io/events/winlp-2025/call-for-papers/).
 - **July 27, 2025**: [Final Reminder: Submissions due August 1!](https://x.com/WiNLPWorkshop/status/1949358235607060813)
 - **Jun 25, 2025**: [Call for mentors](https://x.com/WiNLPWorkshop/status/1937816403547206073) is out!
