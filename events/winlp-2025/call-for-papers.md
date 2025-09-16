@@ -112,7 +112,7 @@ All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
 | ARR commitment deadline | September 10, 2025 |
 | Acceptance notifications | September 15, 2025 |
 | Camera-ready deadline | October 1, 2025 |
-| Travel grant applications due | September 26, 2025 |
+| Travel grant applications due | September 22, 2025 |
 | Travel grant notifications | October 6, 2025 |
 
 ---
