@@ -102,9 +102,9 @@ excerpt: ""
   </div>
 
   <div style="text-align: center; width: 220px;">
-    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="/organization/committee" target="_blank">Helena Gomez-Adorno</a></strong><br>
-    <span style="font-size: smaller;"></span>
+    <img src="/assets/images/winlp-2025/board/helena.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://helenagomez-adorno.github.io" target="_blank">Helena Gomez-Adorno</a></strong><br>
+    <span style="font-size: smaller;">IIMAS, UNAM</span>
   </div>
 
   <div style="text-align: center; width: 220px;">
