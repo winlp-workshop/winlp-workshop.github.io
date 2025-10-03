@@ -10,7 +10,7 @@ excerpt: "Promoting diversity in NLP"
 
 The **Widening NLP (WiNLP)** workshop aims to foster an inclusive environment that highlights the contributions of researchers from underrepresented groups in NLP. Anyone who self-identifies as being from an underrepresented background—based on gender, ethnicity, nationality, sexual orientation, disability, or otherwise—is encouraged to submit. In 2025, WiNLP will continue placing emphasis on access, disability, and diversity across scientific backgrounds, disciplines, training, and underrepresented languages.
 
-Our annual Widening Natural Language Processing Workshop (WiNLP) will be held in conjunction with **[EMNLP 2025](https://2025.emnlp.org/)** in **Suzhou, China.** Since EMNLP is anticipating a hybrid format for their conference, we also anticipate **our workshop will be hybrid**, with both online and in-person attendees. The one-day workshop will occur during EMNLP’s workshop period with **an exact date to be announced soon.**
+Our annual Widening Natural Language Processing Workshop (WiNLP) will be held in conjunction with **[EMNLP 2025](https://2025.emnlp.org/)** in **Suzhou, China.** Since EMNLP is anticipating a hybrid format for their conference, we also anticipate **our workshop will be hybrid**, with both online and in-person attendees. The one-day workshop will occur during EMNLP’s workshop period **on Saturday, November 8, 2025.**
 
 The full-day event includes invited talks, oral presentations, and poster sessions. The workshop provides an excellent opportunity for junior members in the community to showcase their work and connect with senior mentors for feedback and career advice. It also offers recruitment opportunities with leading industrial labs. Most importantly, the workshop will provide an inclusive and accepting space, and work to lower structural barriers to joining and collaborating with the NLP community at large.
 
@@ -47,8 +47,8 @@ All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
 | ~~Paper submission deadline~~         | ~~August 1, 2025~~     |
 | ~~ARR commitment deadline~~ | ~~September 10, 2025~~ |
 | ~~Acceptance notifications~~          | ~~September 15, 2025~~ |
-| Camera-ready deadline             | October 1, 2025    |
-| Travel grant applications due     | September 22, 2025 |
+| ~~Camera-ready deadline~~             | ~~October 1, 2025~~    |
+| ~~Travel grant applications due~~     | ~~September 22, 2025~~ |
 | Travel grant notifications        | October 6, 2025    |
 
 ---
