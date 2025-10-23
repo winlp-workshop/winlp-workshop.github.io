@@ -49,13 +49,59 @@ All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
 | ~~Acceptance notifications~~          | ~~September 15, 2025~~ |
 | ~~Camera-ready deadline~~             | ~~October 1, 2025~~    |
 | ~~Travel grant applications due~~     | ~~September 22, 2025~~ |
-| Travel grant notifications        | October 6, 2025    |
+| ~~Travel grant notifications~~    | ~~October 6, 2025~~ |
 
 ---
 
 ## 👩‍🏫 Keynote Speakers 
 
-To be announced. Please stay tuned!
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="text-align: center; width: 250px;">
+    <img src="/assets/images/winlp-2025/speakers/david_adelani.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="" target="_blank">David Adelani</a></strong><br>
+    <span style="font-size: smaller;">McGill University</span>
+  </div>  
+
+  <div style="text-align: center; width: 250px;">
+    <img src="/assets/images/winlp-2025/speakers/jen-tse_huang.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="" target="_blank">Jen-Tse Huang</a></strong><br>
+    <span style="font-size: smaller;">Johns Hopkins University</span>
+  </div>  
+
+</div>
+
+---
+
+## 🙋 Panelists 
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="text-align: center; width: 250px;">
+    <img src="/assets/images/winlp-2025/speakers/christos_christodoulopoulos.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="" target="_blank">Christos Christodoulopoulos</a></strong><br>
+    <span style="font-size: smaller;">Information Commissioner's Office</span>
+  </div>  
+
+  <div style="text-align: center; width: 250px;">
+    <img src="/assets/images/winlp-2025/speakers/julia_kreutzer.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="" target="_blank">Julia Kreutzer</a></strong><br>
+    <span style="font-size: smaller;">Cohere Labs</span>
+  </div>  
+
+  <div style="text-align: center; width: 250px;">
+    <img src="/assets/images/winlp-2025/speakers/pittawat_taveekitworachai.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="" target="_blank">Pittawat Taveekitworachai</a></strong><br>
+    <span style="font-size: smaller;">SCB 10X</span>
+  </div>  
+
+  <div style="text-align: center; width: 250px;">
+    <img src="/assets/images/winlp-2025/speakers/zhisong_zhang.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="" target="_blank">Zhisong Zhang</a></strong><br>
+    <span style="font-size: smaller;">City University of Hong Kong</span>
+  </div>  
+
+</div>
 
 ---
 
