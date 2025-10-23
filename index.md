@@ -10,9 +10,9 @@ excerpt: "Promoting diversity in NLP"
 
 The **Widening NLP (WiNLP)** workshop aims to foster an inclusive environment that highlights the contributions of researchers from underrepresented groups in NLP. Anyone who self-identifies as being from an underrepresented background—based on gender, ethnicity, nationality, sexual orientation, disability, or otherwise—is encouraged to submit. In 2025, WiNLP will continue placing emphasis on access, disability, and diversity across scientific backgrounds, disciplines, training, and underrepresented languages.
 
-Our annual Widening Natural Language Processing Workshop (WiNLP) will be held in conjunction with **[EMNLP 2025](https://2025.emnlp.org/)** in **Suzhou, China.** Since EMNLP is anticipating a hybrid format for their conference, we also anticipate **our workshop will be hybrid**, with both online and in-person attendees. The one-day workshop will occur during EMNLP’s workshop period **on Saturday, November 8, 2025.**
+Our annual Widening Natural Language Processing Workshop (WiNLP) will be held in conjunction with **[EMNLP 2025](https://2025.emnlp.org/)** in **Suzhou, China.** Since EMNLP is anticipating a hybrid format for their conference, we also anticipate **our workshop will be hybrid**, with both online and in-person attendees. The one-day workshop will occur during EMNLP’s workshop period **in Room A303, from 8:00 AM to 17:30 PM on Saturday, November 8, 2025**. 
 
-The full-day event includes invited talks, oral presentations, and poster sessions. The workshop provides an excellent opportunity for junior members in the community to showcase their work and connect with senior mentors for feedback and career advice. It also offers recruitment opportunities with leading industrial labs. Most importantly, the workshop will provide an inclusive and accepting space, and work to lower structural barriers to joining and collaborating with the NLP community at large.
+The full-day event includes two invited talks, a panel discussion, a mentorship session and poster sessions. The workshop provides an excellent opportunity for junior members in the community to showcase their work and connect with senior mentors for feedback and career advice. It also offers recruitment opportunities with leading industrial labs. Most importantly, the workshop will provide an inclusive and accepting space, and work to lower structural barriers to joining and collaborating with the NLP community at large.
 
 
 
@@ -24,12 +24,10 @@ The full-day event includes invited talks, oral presentations, and poster sessio
 ---
 
 ## 🛎️ News 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">⛱️WiNLP 2025 notifications are out! <br><br>🎉 Congrats to all accepted authors. <br><br>📅Camera-ready deadline: Oct 1 <br>📅 Travel/registration grant deadline: Sept 22 <br><br> 📩Check your email for details! <a href="https://twitter.com/hashtag/WiNLP?src=hash&amp;ref_src=twsrc%5Etfw">#WiNLP</a> <a href="https://twitter.com/hashtag/NLProc?src=hash&amp;ref_src=twsrc%5Etfw">#NLProc</a> <a href="https://t.co/MDwCohkq1a">pic.twitter.com/MDwCohkq1a</a></p>&mdash; WiNLP (@WiNLPWorkshop) <a href="https://twitter.com/WiNLPWorkshop/status/1967784801819361755?ref_src=twsrc%5Etfw">September 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-- **Sep 16, 2025**: WiNLP 2025 notifications are out! Congrats to all accepted authors! **Please check out notificiation email for more instructions on applying for travel grants.**
+- **Oct 23, 2025**: **[Program](https://winlp-workshop.github.io/events/winlp-2025/program/) is out!** Check the full schedule of events including keynotes, panel discussion, poster sessions, and mentorship session!
+- **Sep 16, 2025**: WiNLP 2025 notifications are out! Congrats to all accepted authors! Please check out notificiation email for more instructions on applying for travel grants.
 - **Sep 3, 2025**: Accepting pre-reviewed ARR submissions for commitment! See detailed instructions [here](https://winlp-workshop.github.io/events/winlp-2025/call-for-papers/).
-- **July 27, 2025**: [Final Reminder: Submissions due August 1!](https://x.com/WiNLPWorkshop/status/1949358235607060813)
+- **July 27, 2025**: [Final Reminder](https://x.com/WiNLPWorkshop/status/1949358235607060813): Submissions due August 1!
 - **Jun 25, 2025**: [Call for mentors](https://x.com/WiNLPWorkshop/status/1937816403547206073) is out!
 - **Jun 21, 2025**: [Pre-mentorship deadline](https://x.com/WiNLPWorkshop/status/1936108940468838644) is TODAY!
 - **Jun 11, 2025**: [Call for papers](https://x.com/WiNLPWorkshop/status/1932730646084137043) is out!
@@ -50,22 +48,23 @@ All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
 | ~~Camera-ready deadline~~             | ~~October 1, 2025~~    |
 | ~~Travel grant applications due~~     | ~~September 22, 2025~~ |
 | ~~Travel grant notifications~~    | ~~October 6, 2025~~ |
+| **Workshop date**                    | **November 8, 2025** (UTC+8) |
 
 ---
 
-## 👩‍🏫 Keynote Speakers 
+## 👩‍🏫 Keynote Speakers
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="text-align: center; width: 250px;">
     <img src="/assets/images/winlp-2025/speakers/david_adelani.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="" target="_blank">David Adelani</a></strong><br>
+    <strong><a href="https://dadelani.github.io/" target="_blank">David Adelani</a></strong><br>
     <span style="font-size: smaller;">McGill University</span>
   </div>  
 
   <div style="text-align: center; width: 250px;">
     <img src="/assets/images/winlp-2025/speakers/jen-tse_huang.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="" target="_blank">Jen-Tse Huang</a></strong><br>
+    <strong><a href="https://penguinnnnn.github.io/" target="_blank">Jen-Tse Huang</a></strong><br>
     <span style="font-size: smaller;">Johns Hopkins University</span>
   </div>  
 
@@ -79,25 +78,25 @@ All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
 
   <div style="text-align: center; width: 250px;">
     <img src="/assets/images/winlp-2025/speakers/christos_christodoulopoulos.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="" target="_blank">Christos Christodoulopoulos</a></strong><br>
+    <strong><a href="https://christos-c.com/" target="_blank">Christos Christodoulopoulos</a></strong><br>
     <span style="font-size: smaller;">Information Commissioner's Office</span>
   </div>  
 
   <div style="text-align: center; width: 250px;">
     <img src="/assets/images/winlp-2025/speakers/julia_kreutzer.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="" target="_blank">Julia Kreutzer</a></strong><br>
+    <strong><a href="https://juliakreutzer.github.io/" target="_blank">Julia Kreutzer</a></strong><br>
     <span style="font-size: smaller;">Cohere Labs</span>
   </div>  
 
   <div style="text-align: center; width: 250px;">
     <img src="/assets/images/winlp-2025/speakers/pittawat_taveekitworachai.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="" target="_blank">Pittawat Taveekitworachai</a></strong><br>
+    <strong><a href="https://petepittawat.dev/" target="_blank">Pittawat Taveekitworachai</a></strong><br>
     <span style="font-size: smaller;">SCB 10X</span>
   </div>  
 
   <div style="text-align: center; width: 250px;">
     <img src="/assets/images/winlp-2025/speakers/zhisong_zhang.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="" target="_blank">Zhisong Zhang</a></strong><br>
+    <strong><a href="https://zzsfornlp.github.io/" target="_blank">Zhisong Zhang</a></strong><br>
     <span style="font-size: smaller;">City University of Hong Kong</span>
   </div>  
 
