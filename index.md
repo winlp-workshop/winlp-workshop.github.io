@@ -24,7 +24,10 @@ The full-day event includes two invited talks, a panel discussion, a mentorship 
 ---
 
 ## 🛎️ News 
-- **Oct 23, 2025**: **[Program](https://winlp-workshop.github.io/events/winlp-2025/program/) is out!** Check the full schedule of events including keynotes, panel discussion, poster sessions, and mentorship session!
+
+- **Nov 6, 2025**: WiNLP is parterning with IJCNLP-AACL 2025 D&I committee to host a mentorship program during the conference! Check out more details [here](https://2025.aaclnet.org/calls/subsidies/#mentorship-program).
+
+- **Oct 23, 2025**: [Program](https://winlp-workshop.github.io/events/winlp-2025/program/) is out! Check the full schedule of events including keynotes, panel discussion, poster sessions, and mentorship session!
 - **Sep 16, 2025**: WiNLP 2025 notifications are out! Congrats to all accepted authors! Please check out notificiation email for more instructions on applying for travel grants.
 - **Sep 3, 2025**: Accepting pre-reviewed ARR submissions for commitment! See detailed instructions [here](https://winlp-workshop.github.io/events/winlp-2025/call-for-papers/).
 - **July 27, 2025**: [Final Reminder](https://x.com/WiNLPWorkshop/status/1949358235607060813): Submissions due August 1!
