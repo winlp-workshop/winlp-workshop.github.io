@@ -6,6 +6,15 @@ excerpt: ""
 
 ---
 
+## WiNLP 2025 Mentorship Program @IJCNLP-AACL
+* [Application](https://2025.aaclnet.org/calls/subsidies/#mentorship-program)
+
+## WiNLP 2025 Workshop
+* [Call for Papers](/events/winlp-2025/call-for-papers)
+* [Program](/events/winlp-2025/program)
+* [Committee](/events/winlp-2025/committee)
+* [Sponsors](/events/winlp-2025/sponsors)
+
 ## WiNLP 2024 Workshop
 * [WiNLP 2024 Workshop](/events/winlp-2024)
 * [Call for Papers](/events/winlp-2024/call-for-submission)
