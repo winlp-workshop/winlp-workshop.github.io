@@ -14,6 +14,7 @@ excerpt: ""
 * [Program](/events/winlp-2025/program)
 * [Committee](/events/winlp-2025/committee)
 * [Sponsors](/events/winlp-2025/sponsors)
+* [Proceedings](https://aclanthology.org/volumes/2025.winlp-main/)
 
 ## WiNLP 2024 Workshop
 * [WiNLP 2024 Workshop](/events/winlp-2024)
