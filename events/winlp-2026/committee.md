@@ -2,13 +2,13 @@
 title: WiNLP Committee and Board
 feature_text: |
   
-feature_image: /assets/images/background_homepage.jpg
+feature_image: /assets/images/winlp-2026/background_homepage.png
 excerpt: ""
 ---
 
 ---
 
-## 2025 Workshop Organizers
+## 2026 Workshop Organizers
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
@@ -22,18 +22,6 @@ excerpt: ""
     <img src="/assets/images/winlp-2025/organizers/Emily.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
     <strong><a href="https://emilyallaway.github.io/" target="_blank">Emily Allaway</a></strong><br>
     <span style="font-size: smaller;">University of Edinburgh</span>
-  </div>
-
-  <div style="text-align: center; width: 220px;">
-    <img src="/assets/images/winlp-2025/organizers/Hua_Shen.jpeg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="https://hua-shen.org/" target="_blank">Hua Shen</a></strong><br>
-    <span style="font-size: smaller;">New York University (Shanghai) / University of Washington</span>
-  </div>
-
-  <div style="text-align: center; width: 220px;">
-    <img src="/assets/logos/cropped-winlp-v3-purple-512.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="" target="_blank">Lesly Miculicich</a></strong><br>
-    <span style="font-size: smaller;">Google</span>
   </div>
 
   <div style="text-align: center; width: 220px;">
@@ -67,11 +55,6 @@ excerpt: ""
 </span>
   </div>
 
-  <div style="text-align: center; width: 220px;">
-    <img src="/assets/images/winlp-2025/organizers/Simeng_Han.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="https://sophiahan6.github.io/" target="_blank">Sophia Simeng Han</a></strong><br>
-    <span style="font-size: smaller;">Yale University</span>
-  </div>
 
   <div style="text-align: center; width: 220px;">
     <img src="/assets/images/winlp-2025/organizers/Surendrabikram-Thapa.png" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
@@ -79,18 +62,12 @@ excerpt: ""
     <span style="font-size: smaller;">Virginia Tech, USA</span>
   </div>
 
-  <div style="text-align: center; width: 220px;">
-    <img src="/assets/images/winlp-2025/organizers/Wiem.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="https://www.wiembnr.com/" target="_blank">Wiem Ben Rim</a></strong><br>
-    <span style="font-size: smaller;">University College London</span>
-  </div>
-
 </div>
 
 
 ---
 
-## 2025 Workshop Advisory Board 
+## 2026 Workshop Advisory Board 
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
