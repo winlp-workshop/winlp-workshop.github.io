@@ -82,11 +82,11 @@ In addition to direct submissions, WiNLP 2026 welcomes commitments of papers tha
 
 ### Submission Links
 
-Pre-submission Mentorship: [TBD]
+Pre-submission Mentorship: [https://openreview.net/group?id=EMNLP/2026/Workshop/WiNLP_Pre-Submission_Mentorship](https://openreview.net/group?id=EMNLP/2026/Workshop/WiNLP_Pre-Submission_Mentorship)
 
-Direct Submission: [TBD]
+Direct Submission: [https://openreview.net/group?id=EMNLP/2026/Workshop/WiNLP_Direct_Submission](https://openreview.net/group?id=EMNLP/2026/Workshop/WiNLP_Direct_Submission)
 
-ARR Commitment: [TBD]
+ARR Commitment: [https://openreview.net/group?id=EMNLP/2026/Workshop/WiNLP_ARR_Commitment](https://openreview.net/group?id=EMNLP/2026/Workshop/WiNLP_ARR_Commitment)
 
 ---
 
