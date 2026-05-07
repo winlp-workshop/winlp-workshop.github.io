@@ -25,6 +25,7 @@ The full-day event includes invited talks, panel discussions, mentorship session
 
 ## 🛎️ News 
 
+- **May 7, 2026**: We are looking for sponsors for WiNLP 2026! If your organization is interested in sponsoring, please reach out to us. See [here](events/winlp-2026/sponsors) for more details.
 - **April 12, 2026**: [Call for papers](events/winlp-2026/call-for-papers) is out!
 
 ---
