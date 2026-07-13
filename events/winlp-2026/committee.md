@@ -15,7 +15,7 @@ excerpt: ""
   <div style="text-align: center; width: 250px;">
     <img src="/assets/images/winlp-2025/organizers/chen_zhang.jpeg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
     <strong><a href="https://luciusssss.github.io/" target="_blank">Chen Zhang</a></strong><br>
-    <span style="font-size: smaller;">Peking University</span>
+    <span style="font-size: smaller;">NII</span>
   </div>  
 
   <div style="text-align: center; width: 220px;">
