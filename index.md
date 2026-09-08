@@ -25,6 +25,8 @@ The full-day event includes invited talks, panel discussions, mentorship session
 
 ## 🛎️ News 
 
+- **September 8, 2026**: Acceptance notifications are out! Please check your email for the notification and next steps.
+
 - **July 7, 2026**: Pre-mentorship feedback is now out! 
 
 - **May 7, 2026**: We are looking for sponsors for WiNLP 2026! If your organization is interested in sponsoring, please reach out to us. See [here](events/winlp-2026/sponsors) for more details.
@@ -40,9 +42,9 @@ All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
 | --- | --- |
 | ~~Pre-submission mentoring submission deadline~~ | ~~June 1, 2026~~ |
 | ~~Pre-submission feedback release~~ | ~~July 5, 2026~~ |
-| Paper submission deadline | July 26, 2026 |
-| ARR Commitment deadline | August 24, 2026 |
-| Acceptance notifications | September 6, 2026 |
+| ~~Paper submission deadline~~ | ~~July 26, 2026~~ |
+| ~~ARR Commitment deadline~~ | ~~August 24, 2026~~ |
+| ~~Acceptance notifications~~ | ~~September 6, 2026~~ |
 | Camera-ready deadline | September 27, 2026 |
 | Travel grant applications due | September 13, 2026 |
 | Travel grant notifications | September 27, 2026 |
