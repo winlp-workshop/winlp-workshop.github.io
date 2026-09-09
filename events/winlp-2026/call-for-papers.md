@@ -120,6 +120,7 @@ WiNLP offers an optional pre-submission mentorship program to help authors impro
 
 ## Travel Support
 WiNLP offers a limited number of travel grants to support one author per accepted submission. Grants may cover expenses such as registration, travel, lodging, or visa costs. Funded authors may choose to attend virtually if preferred.
+* **Application form:** [https://forms.gle/LjWCKMD6y1f3NERo9](https://forms.gle/LjWCKMD6y1f3NERo9)
 * **Travel grant application deadline:** September 13, 2026
 * **Notification:** September 27, 2026
 * **Eligibility:** One author per accepted submission is eligible. The funded author must be identified in the travel grant application form.

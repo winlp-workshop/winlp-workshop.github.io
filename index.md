@@ -25,7 +25,9 @@ The full-day event includes invited talks, panel discussions, mentorship session
 
 ## 🛎️ News 
 
-- **September 8, 2026**: Acceptance notifications are out! Please check your email for the notification and next steps.
+- **September 9, 2026**:  [Travel grants](events/winlp-2026/call-for-papers#travel-support) are open for applications to attend WiNLP 2026! The application form is [here](https://forms.gle/LjWCKMD6y1f3NERo9).
+
+- **September 8, 2026**: Acceptance notifications are out! Please check your email for the notification and next steps. 
 
 - **July 7, 2026**: Pre-mentorship feedback is now out! 
 
