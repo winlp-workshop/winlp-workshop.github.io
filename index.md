@@ -12,6 +12,7 @@ The **Widening NLP (WiNLP)** workshop aims to foster an inclusive environment th
 
 Our annual Widening Natural Language Processing Workshop (WiNLP) will be held in conjunction with **[EMNLP 2026](https://2026.emnlp.org/)** in **Budapest, Hungary.** Since EMNLP is anticipating a hybrid format for their conference, we also anticipate **our workshop will be hybrid**, with both online and in-person attendees. The one-day workshop will occur during EMNLP’s workshop period. 
 
+The workshop will be held **on Wednesday, October 28, 2026, in Room G6 at HUNGEXPO Budapest**.
 The full-day event includes invited talks, panel discussions, mentorship sessions and poster sessions. The workshop provides an excellent opportunity for junior members in the community to showcase their work and connect with senior mentors for feedback and career advice. It also offers recruitment opportunities with leading industrial labs. Most importantly, the workshop will provide an inclusive and accepting space, and work to lower structural barriers to joining and collaborating with the NLP community at large.
 
 
