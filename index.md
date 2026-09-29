@@ -48,9 +48,10 @@ All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
 | ~~Paper submission deadline~~ | ~~July 26, 2026~~ |
 | ~~ARR Commitment deadline~~ | ~~August 24, 2026~~ |
 | ~~Acceptance notifications~~ | ~~September 6, 2026~~ |
-| Camera-ready deadline | September 27, 2026 |
-| Travel grant applications due | September 13, 2026 |
-| Travel grant notifications | September 27, 2026 |
+| ~~Camera-ready deadline~~ | ~~September 27, 2026~~ |
+| ~~Travel grant applications due~~ | ~~September 13, 2026~~ |
+| ~~Travel grant notifications~~ | ~~September 27, 2026~~ |
+| Workshop date | October 28, 2026 |
 
 ---
 
