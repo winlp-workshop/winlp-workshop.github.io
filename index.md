@@ -103,7 +103,7 @@ All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
 
   <div style="text-align: center; width: 220px;">
     <img src="/assets/images/winlp-2026/panelists/maria_grandury.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
-    <strong><a href="https://www.mariagrandury.com/" target="_blank">María Grandury</a></strong><br>
+    <strong><a href="https://mariagrandury.ai/" target="_blank">María Grandury</a></strong><br>
     <span style="font-size: smaller;">EPFL</span>
   </div>
 
