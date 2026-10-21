@@ -26,6 +26,8 @@ The full-day event includes invited talks, panel discussions, mentorship session
 
 ## 🛎️ News 
 
+- **October 21, 2026**: The [program](events/winlp-2026/program) for WiNLP 2026 is out! Check out our keynote talks, the panel discussion on Sovereign AI, and the full schedule of events.
+
 - **September 9, 2026**:  [Travel grants](events/winlp-2026/call-for-papers#travel-support) are open for applications to attend WiNLP 2026! The application form is [here](https://forms.gle/LjWCKMD6y1f3NERo9).
 
 - **September 8, 2026**: Acceptance notifications are out! Please check your email for the notification and next steps. 
@@ -52,6 +54,78 @@ All deadlines are **11:59 PM UTC-12:00 ("Anywhere on Earth")**
 | ~~Travel grant applications due~~ | ~~September 13, 2026~~ |
 | ~~Travel grant notifications~~ | ~~September 27, 2026~~ |
 | Workshop date | October 28, 2026 |
+
+---
+
+## 🎤 Keynote Speakers 
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2026/speakers/millicent_ochieng.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://www.microsoft.com/en-us/research/people/mochieng/" target="_blank">Millicent Ochieng</a></strong><br>
+    <span style="font-size: smaller;">Microsoft Research Africa</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2026/speakers/felermino_ali.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://felerminoali.github.io/" target="_blank">Felermino Ali</a></strong><br>
+    <span style="font-size: smaller;">Microsoft Research Africa</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2026/speakers/atnafu_lambebo_tonja.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://atnafuatx.github.io/" target="_blank">Atnafu Lambebo Tonja</a></strong><br>
+    <span style="font-size: smaller;">University College London</span>
+  </div>
+
+</div>
+
+---
+
+## 💬 Panelists 
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2026/panelists/raymond_ng.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://www.linkedin.com/in/raymond-ng-ai/" target="_blank">Raymond Ng</a></strong><br>
+    <span style="font-size: smaller;">AI Singapore</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2026/panelists/fajri_koto.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://www.fajrikoto.com/" target="_blank">Fajri Koto</a></strong><br>
+    <span style="font-size: smaller;">MBZUAI</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2026/panelists/maria_grandury.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://www.mariagrandury.com/" target="_blank">María Grandury</a></strong><br>
+    <span style="font-size: smaller;">EPFL</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2026/panelists/prashant_kodali.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://www.microsoft.com/en-us/research/people/t-prakodali/" target="_blank">Prashant Kodali</a></strong><br>
+    <span style="font-size: smaller;">Microsoft Research India</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2026/panelists/pontus_stenetorp.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://pontus.stenetorp.se/" target="_blank">Pontus Stenetorp</a></strong><br>
+    <span style="font-size: smaller;">UCL & NII</span>
+  </div>
+
+  <div style="text-align: center; width: 220px;">
+    <img src="/assets/images/winlp-2026/panelists/andrey_kutuzov.jpg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong><a href="https://www.mn.uio.no/ifi/english/people/aca/andreku/" target="_blank">Andrey Kutuzov</a></strong><br>
+    <span style="font-size: smaller;">University of Oslo</span>
+  </div>
+
+</div>
 
 ---
 
