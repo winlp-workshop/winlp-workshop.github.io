@@ -41,7 +41,21 @@ The full-day event includes invited talks, panel discussions, mentorship session
 
 ## 📆 Program 
 
-Explore the full WiNLP 2026 schedule, including keynote talks, panel discussions, mentorship sessions, and poster presentations. [View the program](events/winlp-2026/program) to see the day’s agenda.
+| Event                                                 | Time (in Central European Time \[UTC+1\]) |
+| ----------------------------------------------------- | ----------------------------------------- |
+| Virtual Poster Session                                | 8:00-9:00                                 |
+| Opening Remarks                                       | 9:00-9:15                                 |
+| Keynote A: Millicent Ochieng & Felermino Ali          | 9:15-10:15                                |
+| Coffee Break                                          | 10:30-11:00                               |
+| Panel Discussion: Sovereign AI                        | 11:00-12:30                               |
+| Lunch Break                                           | 12:30-14:00                               |
+| In-Person Poster Session                              | 14:00-15:00                               |
+| Coffee Break                                          | 15:30-16:00                               |
+| Keynote B: Atnafu Lambebo Tonja                       | 16:00-17:00                               |
+| Closing Remarks & Best Paper Award                    | 17:00-17:15                               |
+
+
+Explore the full WiNLP 2026 schedule [here](events/winlp-2026/program).
 
 ---
 
